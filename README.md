@@ -1,35 +1,3 @@
-# weegbrug_dds_prototype
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # Vue_Kanban
+
+See [this tutorial](https://auth0.com/blog/vuejs-kanban-board-the-development-process/#The-Kanban-Board-Vue-js-Component).
